@@ -1,3 +1,5 @@
+---
+---
 # Search the a11yhood assistive technology collection
 
 <script type="module">
