@@ -1,6 +1,6 @@
-<html>
-    <head></head>
-    <body><script type="module">
+# Search the a11yhood assistive technology collection
+
+<script type="module">
 import lunr from "https://esm.sh/lunr"
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm"
 import markdownIt from 'https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/+esm'
@@ -62,5 +62,4 @@ updateSearch()
             <template><tr><th></th><td></td></tr></template>
         </table>
     </fieldset>
-</form></body>
-</html>
+</form>
