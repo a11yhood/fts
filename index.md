@@ -1,6 +1,6 @@
 ---
+title: full text search of the a11yhood assistive technology 
 ---
-# Search the a11yhood assistive technology collection
 
 <script type="module">
 import lunr from "https://esm.sh/lunr"
