@@ -1,6 +1,6 @@
 ---
 title: full text search of the a11yhood assistive technology 
-layout: default
+layout: page
 ---
 
 <script type="module">
